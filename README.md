@@ -4,7 +4,7 @@ Khôi phục dấu câu tiếng Việt sử dụng Beam search & Language model
 
 > Click vào ảnh để xem bài hướng dẫn chi tiết
 
-[![](https://nguyenvanhieu.vn/wp-content/uploads/2020/07/beam-search.jpg)](https://nguyenvanhieu.vn/thuat-toan-beam-search/)
+[![](https://behitek.com/wp-content/uploads/2024/04/thuat-toan-beam-search.webp)](https://behitek.com/beam-search/)
 
 # Demo
-[Mở trong Google Colab](https://colab.research.google.com/github/nguyenvanhieuvn/vn-accent-resoration/blob/master/beam_search.ipynb)
+[Mở trong Google Colab](https://colab.research.google.com/github/behitek/beam-search-tutorial/blob/master/beam_search.ipynb)
